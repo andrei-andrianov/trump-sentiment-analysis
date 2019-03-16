@@ -1,0 +1,11 @@
+# ignore jupyter checkpoints
+.ipynb_checkpoints
+
+# ignore json files with tweets
+*.json
+
+# ignore log file 
+*.log
+
+# ignore OS X folder attributes file
+.DS_Store
