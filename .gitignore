@@ -4,6 +4,9 @@
 # ignore json files with tweets
 *.json
 
+# ignore csv files with ratings
+*.csv
+
 # ignore log file 
 *.log
 
